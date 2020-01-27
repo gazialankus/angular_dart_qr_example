@@ -7,6 +7,7 @@ environment:
 
 dependencies:
   angular: ^6.0.0-alpha
+  qr: ^1.2.0
 
 dev_dependencies:
   angular_test: ^2.3.1
